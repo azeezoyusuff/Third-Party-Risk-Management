@@ -29,9 +29,5 @@ As a Cyber Security GRC Analyst, I was tasked to presents findings from the clie
 | Third- Party Risk Management Questionnaire | Responses from the SaaS Provider regarding  their security posture  |
 
 
-[Visit the Project Link here for all the above-mentioned deliverables](https://github.com/azeezoyusuff/-End-to-End-Cyber-Security-Program-to-improve-Security-Posture-Using-NIST-CSF-800--53/tree/main/SECURITY_MATURITY_ASSESSMENT_USING_NIST_CSF)
 
-
-## Achievement
-
-###### 1. This resulted to A resilient cyber security posture and increased sales by 37% and customer trust by 35%
+[Visit the Project Link here for the Third-Party Risk Management](https://github.com/azeezoyusuff/Third-Party-Risk-Management)    
