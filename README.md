@@ -2,8 +2,6 @@
 
 ## Purpose
 
-To ## Purpose
-
 To Conduct a Security Assessment on Horizon Labs as a Supplier and present executive risk summary; strategic risks that affect client’s ability to innovate, protect IP, and maintain regulatory compliance
 
 ## Goal
