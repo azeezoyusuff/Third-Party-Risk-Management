@@ -30,4 +30,9 @@ As a Cyber Security GRC Analyst, I was tasked to presents findings from the clie
 
 
 
-[Visit the Project Link here for the Third-Party Risk Management](https://github.com/azeezoyusuff/Third-Party-Risk-Management)    
+[Visit the Project Link here for the Third-Party Risk Management](https://github.com/azeezoyusuff/Third-Party-Risk-Management)   
+
+
+## Achievement
+
+###### 1. This resulted to Reduced third-party risk exposure by 35% and improved overall control effectiveness by 32%. 
