@@ -35,4 +35,4 @@ As a Cyber Security GRC Analyst, I was tasked to presents findings from the clie
 
 ## Achievement
 
-###### 1. This resulted to Reduced third-party risk exposure by 35% and improved overall control effectiveness by 32%. 
+###### 1. This resulted to reduced third-party risk exposure by 35% and improved overall control effectiveness by 32%. 
